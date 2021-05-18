@@ -27,7 +27,7 @@ const Green = () => {
                     opacity:0,
                 }}
                 transition={transition1} 
-                src={img1} class="product-img position-absolute" alt="" />
+                src={img1} class="product-img responsive position-absolute" alt="" />
         </motion.div>
     )
 }

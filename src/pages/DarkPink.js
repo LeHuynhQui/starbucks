@@ -26,7 +26,7 @@ const DarkPink = () => {
                     opacity:0,
                 }}
                 transition={transition1} 
-                src={img3} class="product-img position-absolute" alt="" />
+                src={img3} class="product-img responsive position-absolute" alt="" />
         </motion.div>
     )
 }
